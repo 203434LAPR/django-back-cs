@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     # componentes agregados
     'primerComponente',
     'Login',
+    'Register',
 
 
     #Librerias agregar al proyecto
